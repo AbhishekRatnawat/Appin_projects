@@ -1,0 +1,5 @@
+yum install -y python34.x86_64
+yum install ansible-2.3.1.0-1.el7.noarch.rpm
+
+pip install python-aiml
+sudo pip install pyttsx3

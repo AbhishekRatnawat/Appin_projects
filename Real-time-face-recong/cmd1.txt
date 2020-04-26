@@ -1,0 +1,314 @@
+    1  echo 4244715496 > pnr1
+    2  echo 4344598901 > pnr2
+    3  ls
+    4  clear
+    5  ls
+    6  exit
+    7  mkdir music
+    8  ls
+    9  cd ..
+   10  chmod -R 755 Jarvis
+   11  ls
+   12  clear
+   13  chmod -R 755 Jarvis
+   14  clear
+   15  cd Downloads/
+   16  ls
+   17  cd project/
+   18  ls
+   19  vim Jarvis.py 
+   20  python Jarvis.py 
+   21  pip3 install pygame
+   22  python Jarvis.py 
+   23  python3 Jarvis.py 
+   24  ls
+   25  chmod 755 *
+   26  sudo chmod 755 *
+   27  ll
+   28  clear
+   29  python3 Jarvis.py 
+   30  ping 192.168.1.1
+   31  ping google.com
+   32  ping www.google.com
+   33  ifco
+   34  ifconfig
+   35  apt install net-tools
+   36  sudo apt install net-tools
+   37  ifconfig 
+   38  ping google.com
+   39  clear
+   40  python3 Jarvis.py 
+   41  sudo python3 Jarvis.py 
+   42  clear
+   43  sudo su - root
+   44  ls
+   45  clear
+   46  ls
+   47  cd ..
+   48  ls
+   49  cd project/
+   50  ls
+   51  gedit  README.md 
+   52  ls
+   53  gedit Jarvis.py 
+   54  clear
+   55  ls
+   56  python3 Jarvis.py 
+   57  vim Jarvis.py 
+   58  python3 Jarvis.py 
+   59  cd ..
+   60  ls
+   61  cd Jarvis-artificial-intelligence-master/
+   62  ;s
+   63  ls
+   64  vim Jarvis.py 
+   65  clear
+   66  ls
+   67  cd Downloads/
+   68  ls
+   69  cd Jarvis/
+   70  ls
+   71  ll
+   72  cd ..
+   73  ls
+   74  cd project/
+   75  ls
+   76  clear
+   77  python3 Jarvis.py 
+   78  sudo su - root
+   79  sudo su - root 
+   80  ls
+   81  cd Downloads/
+   82  ls
+   83  cd project/
+   84  ls
+   85  totem music/soch.mp3 
+   86  totem& music/soch.mp3 
+   87  totem -G music/soch.mp3 
+   88  totem  music/soch.mp3 
+   89  totem&  music/soch.mp3 
+   90  vim Jarvis.py 
+   91  python3 Jarvis.py 
+   92  clear
+   93  python3 Jarvis.py 
+   94  ls
+   95  cd ..
+   96  ls
+   97  sudo setfacl -d u::rwx project/
+   98  sudo setfacl -d u::rwx project
+   99  sudo setfacl -d -m u::rwx project
+  100  sudo setfacl -d -m g::r-x project
+  101  sudo setfacl -d -m o::r-x project
+  102  ll
+  103  cd project/
+  104  clar
+  105  clear
+  106  ll
+  107  python3 Jarvis.py 
+  108  ls
+  109  python3 Jarvis.py 
+  110  ls
+  111  chmod 755 *
+  112  sudo chmod 755 *
+  113  ll
+  114  python3 Jarvis.py 
+  115  sudo su - root
+  116  cd Downloads/
+  117  ls
+  118  cd project/
+  119  clear
+  120  ls
+  121  python3 Jarvis.py 
+  122  ls
+  123  ll
+  124  clear
+  125  vim Jarvis.py 
+  126  init 0
+  127  sudo chmod 755 *
+  128  ls
+  129  python3 real_time.py 
+  130  python3 trainer.py 
+  131  python real_time.py 
+  132  pip install cv2
+  133  sudo apt-get install libopencv-dev python-opencv
+  134  clear
+  135  exit
+  136  ifconfig 
+  137  clear
+  138  ls
+  139  python real_time.py 
+  140  sudo pip install createLBPHFaceRecognizer
+  141  sudo pip3 install createLBPHFaceRecognizer
+  142  conda install -c menpo opencv3=3.1.0
+  143  apt-get install conda
+  144  sudo apt-get install conda
+  145  pip install opencv-contrib-python
+  146  python real_time.py 
+  147  pip3 install opencv-contrib-python
+  148  python real_time.py 
+  149  python3 real_time.py 
+  150  pip install opencv-contrib-python
+  151  python real_time.py 
+  152  vim real_time.py 
+  153  python real_time.py 
+  154  vim real_time.py 
+  155  pip install opencv-contrib
+  156  pip3 install opencv-contrib
+  157  clear
+  158  ls
+  159  vim real_time.py 
+  160  python3 real_time.py 
+  161  vim real_time.py 
+  162  python3 real_time.py 
+  163  vim real_time.py 
+  164  python3 real_time.py 
+  165  vim real_time.py 
+  166  python3 real_time.py 
+  167  vim real_time.py 
+  168  python3 real_time.py 
+  169  pip install opencv-contrib-python
+  170  pip3 install opencv-contrib-python
+  171  python3 real_time.py 
+  172  pip install opencv-contrib
+  173  pip3 install opencv-contrib-python3
+  174  vim real_time.py 
+  175  python3 real_time.py 
+  176  vim real_time.py 
+  177  ls
+  178  clear
+  179  ls
+  180  sudo pip3 uninstall opencv-contrib-python
+  181  sudo python3 -m pip install opencv-contrib-python==3.3.0.9
+  182  clear
+  183  vim real_time.py 
+  184  python3 real_time.py 
+  185  python real_time.py 
+  186  python --verision
+  187  python -V
+  188  sudo pip uninstall opencv-contrib-python
+  189  sudo python -m pip install opencv-contrib-python==3.3.0.9
+  190  python real_time.py 
+  191  python3 real_time.py 
+  192  vim real_time.py 
+  193  sudo pip install opencv
+  194  sudo pip install opencv-python
+  195  python3 real_time.py 
+  196  python real_time.py 
+  197  sudo pip3 install opencv-python
+  198  python real_time.py 
+  199  clear
+  200  sudo apt-get install python-opencv
+  201  sudo apt-get uninstall python-opencv
+  202  sudo apt-get remove  python-opencv
+  203  sudo apt-get install python-opencv
+  204  python real_time.py 
+  205  python3 real_time.py 
+  206  vim real_time.py
+  207  python3 real_time.py 
+  208  vim real_time.py
+  209  python3 real_time.py 
+  210  python2 real_time.py 
+  211  python3 real_time.py 
+  212  python3 -m pip install opencv-contrib-python
+  213  python print(help(cv2.face))
+  214  python
+  215  vim sam.py
+  216  python sam.py 
+  217  python3 -m pip install opencv-face
+  218  vim sam.py
+  219  python sam.py 
+  220  python3 sam.py 
+  221  clear
+  222  vim sam.py
+  223  python3 sam.py 
+  224  vim real_time.py 
+  225  python3 real_time.py 
+  226  vim real_time.py 
+  227  python3 real_time.py 
+  228  ls
+  229  python trainer.py 
+  230  pip3 install pyttsx
+  231  python trainer.py 
+  232  sudo pip3 install pyttsx
+  233  sudo pip install pyttsx
+  234  python trainer.py 
+  235  vim trainer.py 
+  236  vim real_time.py 
+  237  vim trainer.py 
+  238  python3 trainer.py 
+  239  vim trainer.py 
+  240  python3 trainer.py 
+  241  pip3 install engine
+  242  pip3 install pyttsx3
+  243  vim trainer.py 
+  244  python3 trainer.py 
+  245  vim /home/rathish/.local/lib/python3.6/site-packages/pyttsx/__init__.py
+  246  python3 trainer.py 
+  247  vim /home/rathish/.local/lib/python3.6/site-packages/pyttsx/__init__.py
+  248  vim /home/rathish/.local/lib/python3.6/site-packages/pyttsx/engine.py
+  249  vim /home/rathish/.local/lib/python3.6/site-packages/pyttsx/driver.py 
+  250  python3 trainer.py 
+  251  ls
+  252  python face_recognize.py 
+  253  vim face_recognize.py 
+  254  python face_recognize.py 
+  255  python3 face_recognize.py 
+  256  vim face_recognize.py 
+  257  python3 face_recognize.py 
+  258  vim face_recognize.py 
+  259  python3 face_recognize.py 
+  260  vim face_recognize.py 
+  261  python3 face_recognize.py 
+  262  vim face_recognize.py 
+  263  python3 face_recognize.py 
+  264  vim face_recognize.py 
+  265  python3 face_recognize.py 
+  266  vim face_recognize.py 
+  267  python3 face_recognize.py 
+  268  ls
+  269  vim face_recognize.py 
+  270  clear
+  271  python3 face_recognize.py 
+  272  ls
+  273  python create_database.py 
+  274  python create_database.py  rathish
+  275  clear
+  276  python create_database.py  rathish
+  277  python create_database.py
+  278  vim create_database.py 
+  279  python create_database.py
+  280  ls
+  281  python create_database.py
+  282  vim create_database.py 
+  283  cd ..
+  284  ls
+  285  sudo chmod 777 Real-time
+  286  cd Real-time/
+  287  ls
+  288  python create_database.py 
+  289  ls
+  290  python create_data.py 
+  291  gedit README.md 
+  292  mkdir database
+  293  ls
+  294  clear
+  295  ls
+  296  python create_database.py rathish
+  297  cd
+  298  clear
+  299  ls
+  300  cd Dew
+  301  cd Desktop/
+  302  ls
+  303  wget http://dl.fedoraproject.org/pub/epel/7/x86_64/e/epel-release-7-5.noarch.rpm
+  304  exit
+  305  ping google.com
+  306  python face_recognize.py 
+  307  ls
+  308  python3 face_recognize.py 
+  309  vim face_recognize.py 
+  310  vim real_time.py 
+  311  history 
+  312  vim face_recognize.py 
+  313  python3 face_recognize.py 
+  314  history > cmd1.txt

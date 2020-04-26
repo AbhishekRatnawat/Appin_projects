@@ -1,0 +1,64 @@
+sudo apt-get install libportaudio2
+sudo apt update && sudo apt upgrade
+
+sudo apt-get install libasound-dev portaudio19-dev 
+libportaudio2 libportaudiocpp0
+sudo apt-get install ffmpeg libav-tools
+sudo pip3 install pyaudio
+/****************
+/*********************MySetup**********
+yum install python34-setuptools
+wget https://bootstrap.pypa.io/get-pip.py
+python3.4 get-pip.py
+
+For CentOS CentOS-7 run the following as root:
+cd /etc/yum.repos.d/
+wget https://download.opensuse.org/repositories/home:crantila:RHEL7/CentOS_CentOS-7/home:crantila:RHEL7.repo
+yum install pyaudio
+pip3 install SpeechRecognition
+pip3 install pygame
+pip3 install gTTs
+************My Configure End**********************
+sudo yum install pip3
+------------------SpeechRecognition-------
+pip3 install pyaudio
+pip3 install SpeechRecognition
+----------------pygame------------
+pip3 install pygame
+
+-----------------gTTs------------
+pip3 install gTTs
+**********************/
+python -m pip install --upgrade pip
+
+---------------Python Installation------------
+sudo add-apt-repository ppa:jonathonf/python-3.6
+sudo apt-get update
+sudo apt-get install python3.6
+sudo update-alternatives --install /usr/bin/python3 python3 
+/usr/bin/python3.5 1
+
+sudo update-alternatives --install /usr/bin/python3 python3 
+/usr/bin/python3.6 2
+sudo update-alternatives --config python3
+python3 -V
+
+UPDATE: due to this bug, gnome-terminal won’t launch after step 3, a workaround is running following commands to recreate the symlink:
+
+sudo rm /usr/bin/python3
+
+sudo ln -s python3.5 /usr/bin/python3
+
+-------------------------Pip3 Installation---------------
+sudo apt-get update
+sudo apt-get -y install python3-pip
+
+OR
+
+curl "https://bootstrap.pypa.io/get-pip.py" -o "get-pip.py"
+python get-pip.py
+
+pip3 --help 
+pip3 --version 
+-----------------------------------------
+
